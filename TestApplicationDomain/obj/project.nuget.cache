@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdkhsPSOh0h2ZvkB+YNbVKNismYkMrfUEK4ygvaBD4EEMjt7cvlfN/EWknBEt/1YGbWUSC8Mc2qz71Onbw8NMg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\TestProject\\2\\TestApplication\\TestApplicationDomain\\TestApplicationDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muhammed.assainar\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\muhammed.assainar\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\muhammed.assainar\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\muhammed.assainar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\muhammed.assainar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\muhammed.assainar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\muhammed.assainar\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestApplicationDomain\TestApplicationDomain.csproj" />
+    <ProjectReference Include="..\TestApplicationInterface\TestApplicationInterface.csproj" />
+  </ItemGroup>
+
+</Project>

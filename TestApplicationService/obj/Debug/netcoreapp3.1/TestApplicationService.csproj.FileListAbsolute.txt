@@ -1,0 +1,14 @@
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\bin\Debug\netcoreapp3.1\TestApplicationService.deps.json
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\bin\Debug\netcoreapp3.1\TestApplicationService.dll
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\bin\Debug\netcoreapp3.1\TestApplicationService.pdb
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\bin\Debug\netcoreapp3.1\TestApplicationDomain.dll
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\bin\Debug\netcoreapp3.1\TestApplicationInterface.dll
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\bin\Debug\netcoreapp3.1\TestApplicationDomain.pdb
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\bin\Debug\netcoreapp3.1\TestApplicationInterface.pdb
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\obj\Debug\netcoreapp3.1\TestApplicationService.csproj.AssemblyReference.cache
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\obj\Debug\netcoreapp3.1\TestApplicationService.AssemblyInfoInputs.cache
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\obj\Debug\netcoreapp3.1\TestApplicationService.AssemblyInfo.cs
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\obj\Debug\netcoreapp3.1\TestApplicationService.csproj.CoreCompileInputs.cache
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\obj\Debug\netcoreapp3.1\TestApplicationService.csproj.CopyComplete
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\obj\Debug\netcoreapp3.1\TestApplicationService.dll
+C:\Projects\TestProject\2\TestApplication\TestApplicationService\obj\Debug\netcoreapp3.1\TestApplicationService.pdb

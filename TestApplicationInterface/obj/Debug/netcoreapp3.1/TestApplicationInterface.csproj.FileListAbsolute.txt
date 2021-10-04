@@ -1,0 +1,12 @@
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\bin\Debug\netcoreapp3.1\TestApplicationInterface.deps.json
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\bin\Debug\netcoreapp3.1\TestApplicationInterface.dll
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\bin\Debug\netcoreapp3.1\TestApplicationInterface.pdb
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\bin\Debug\netcoreapp3.1\TestApplicationDomain.dll
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\bin\Debug\netcoreapp3.1\TestApplicationDomain.pdb
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\obj\Debug\netcoreapp3.1\TestApplicationInterface.csproj.AssemblyReference.cache
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\obj\Debug\netcoreapp3.1\TestApplicationInterface.AssemblyInfoInputs.cache
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\obj\Debug\netcoreapp3.1\TestApplicationInterface.AssemblyInfo.cs
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\obj\Debug\netcoreapp3.1\TestApplicationInterface.csproj.CoreCompileInputs.cache
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\obj\Debug\netcoreapp3.1\TestApplicationInterface.csproj.CopyComplete
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\obj\Debug\netcoreapp3.1\TestApplicationInterface.dll
+C:\Projects\TestProject\2\TestApplication\TestApplicationInterface\obj\Debug\netcoreapp3.1\TestApplicationInterface.pdb
